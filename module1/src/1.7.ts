@@ -21,5 +21,11 @@
 
     dbms: "Mizan",
   };
-  const mentors2 = { prisma: "Firoz", next: "Tanmoy", cloud: "Nahid" };
+  const mentors2 = {
+    typescript: "Mezba",
+
+    redux: "Mir",
+
+    dbms: "Mizan",
+  };
 }
